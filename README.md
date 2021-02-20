@@ -1,2 +1,2 @@
 # computer-vision
-This repo contains fun work done while playing with Python OpenCV to do image and video processing! 
+This repo contains fun work on image and video processing while playing with Python OpenCV, MATLAB etc.! 
